@@ -21,7 +21,7 @@ imagesName:
 team:
   bureau:
     - responsability: Présidente (Bourges)
-      name: Romane Fouilhé
+      name: Hugo
       avatar: federation/bde/BR/Romane Fouilhé.jpg
     - responsability: 1ère vice-présidente (Blois)
       name: Lola Bassereau
@@ -35,7 +35,7 @@ team:
     - responsability: trésorier adjoint (Bourges)
       name: Martin Fidon
       avatar: federation/bde/BR/Martin Fidon.jpg
-    - responsability: trésorier (Blois)
+    - responsability: trésorier (Blois)  
       name: Raphaël Mathé
       avatar: federation/bde/BR/Raphaël Mathé.jpg
     - responsability: secrétaire (Bourges)
