@@ -21,7 +21,7 @@ imagesName:
 team:
   bureau:
     - responsability: Présidente (Bourges)
-      name: Hugo
+      name: Hugo Bruynoogue
       avatar: federation/bde/BR/Romane Fouilhé.jpg
     - responsability: 1ère vice-présidente (Blois)
       name: Lola Bassereau
