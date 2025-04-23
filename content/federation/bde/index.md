@@ -209,63 +209,82 @@ team:
     - responsability:
       name: Aziz Baoueb
       avatar: federation/bde/Associatif/Théo Tremblay.jpg
-  Relations Extérieures - Blois:
+  Relations Internationales - Blois:
     - responsability:
-      name: Arthur Clot
+      name: Karahan Akinci
       # avatar: federation/bde/Relations extérieures/Arthur Clot.jpg
-  Relations Extérieures - Bourges:
+  Relations Internationales - Bourges:
     - responsability:
-      name: Titouan Godard
+      name: Romain Meclot
+      avatar: federation/bde/Relations extérieures/Titouan Godard.jpg
+    - responsability:
+      name: Alexis Billiard
       avatar: federation/bde/Relations extérieures/Titouan Godard.jpg
   Informatique - Blois:
     - responsability:
-      name: Nino Perdrix
+      name: Thiên-Tân Banh
       avatar: federation/bde/Informatique/Nino Perdrix.jpg
   Informatique - Bourges:
     - responsability:
-      name: Thomas Mortagne
+      name: Gabin Pasquier
       avatar: federation/bde/Informatique/Thomas Mortagne.jpg
   Olympiades - Blois:
     - responsability:
-      name: Aline Nourry
+      name: Julian Baules
       avatar: federation/bde/Olympiades/Aline Nourry.jpg
     - responsability:
-      name: Louis Berton
+      name: Titouan Bonneau-Ledoux
       # avatar: federation/bde/Olympiades/Louis Berton.jpg
   Olympiades - Bourges:
     - responsability:
-      name: Camille Lambert
+      name: Léo-Paul You
       avatar: federation/bde/Olympiades/Camille Lambert.jpg
     - responsability:
-      name: Mathilde Seity
+      name: Guillaume Sidobre
       avatar: federation/bde/Olympiades/Mathilde Seity.jpg
   Organisation - Blois:
     - responsability:
-      name: Lola Carré Boiteau
+      name: Célestin Roubinet
       avatar: federation/bde/Organisation/Lola Carré Boiteau.jpg
   Organisation - Bourges:
     - responsability:
-      name: Ludovick Lainé
+      name: Sibli Mounoury
       avatar: federation/bde/Organisation/Ludovick Lainé.jpg
   Prévention - Blois:
     - responsability:
-      name: Raja Khessib
+      name: Rémi Valette
       # avatar: federation/bde/Prévention/Raja Khessib.jpg
     - responsability:
-      name: Roman Fonteny
+      name: Kylia Fraissange
       # avatar: federation/bde/Prévention/Roman Fonteny.jpg
+    - responsability:
+      name: Mayar Boulajfene
+      avatar: federation/bde/Relations extérieures/Titouan Godard.jpg
   Prévention - Bourges:
     - responsability:
       name: Jean Louis Dolphin
       # avatar: federation/bde/Prévention/Jean Louis Dolphin.jpg
   Son - Blois:
     - responsability:
-      name: Paul Martinez
+      name: Thomas Baragnon
       avatar: federation/bde/Son/Paul Martinez.jpg
+    - responsability:
+      name: Mathis Achin
+      avatar: federation/bde/Relations extérieures/Titouan Godard.jpg
   Son - Bourges:
     - responsability:
-      name: Delphine Souquet
+      name: Sarah Essougdali
       avatar: federation/bde/Son/Delphine Souquet.jpg
+    - responsability:
+      name: Paul Bardoux
+      avatar: federation/bde/Relations extérieures/Titouan Godard.jpg
+  Electrons Libres - Blois:
+    - responsability:
+      name: Pierre Boudy
+      avatar: federation/bde/Relations extérieures/Titouan Godard.jpg
+    - responsability:
+      name: Vincent Tournebiz
+      avatar: federation/bde/Relations extérieures/Titouan Godard.jpg
 ---
 
 # Le Bureau des Élèves (BDE)
